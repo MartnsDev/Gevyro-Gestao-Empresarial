@@ -1,219 +1,344 @@
 <div align="center">
 
-<img src="Img/gevyro-fav-br.png" alt="Gevyro" width="110" />
+<img src="images/gevyro-fav-br.png" alt="Gevyro" width="110" />
 
 # Gevyro
 
 ### Gestão em evolução.
 
-Plataforma de gestão empresarial criada para centralizar vendas, estoque, caixa, clientes e informações importantes da operação em um único ambiente.
+**Vendas, estoque, caixa, clientes e resultados conectados para você entender a operação sem depender de controles espalhados.**
 
 <br />
 
-[Conheça a Gevyro](https://www.gevyro.com.br) · [Produto](#uma-visão-mais-clara-do-negócio) · [Tecnologia](#tecnologia) · [Segurança](#segurança)
+[**Conheça a Gevyro**](https://www.gevyro.com.br) · [Recursos](#o-que-acontece-na-operação-se-conecta) · [Produto](#veja-a-gevyro-em-ação) · [Tecnologia](#por-trás-da-gevyro)
 
 <br />
 
-[![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Next.js](https://img.shields.io/badge/Next.js-14%2B-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5%2B-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-8%2B-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+**30 dias grátis · Sem cartão de crédito**
 
 </div>
 
 <br />
 
-## Administrar uma empresa não deveria significar procurar informações em vários lugares
+## Crescer fica mais difícil quando cada informação está em um lugar
 
-Uma venda acontece.
+Uma pequena empresa costuma começar de forma simples.
 
-O estoque muda.
+Uma venda é registrada em um lugar. O estoque é conferido em outro. O caixa depende de contas manuais. Informações de clientes ficam separadas. No fim do dia existem números, mas nem sempre existe uma visão clara do que realmente aconteceu.
 
-O caixa recebe uma movimentação.
+Enquanto a operação cresce, esse problema cresce junto.
 
-Um cliente compra.
+A Gevyro foi criada para centralizar essa rotina em um único ambiente, conectando vendas, produtos, estoque, caixa, clientes, empresas e indicadores para transformar registros do dia a dia em informação útil para a gestão.
 
-Novos dados são gerados.
+O objetivo não é adicionar mais uma ferramenta à empresa.
 
-Quando cada uma dessas informações está em um lugar diferente, entender o que realmente está acontecendo com a empresa se torna mais difícil do que deveria.
-
-A Gevyro nasceu para reunir essa operação.
-
-Vendas, estoque, produtos, clientes, caixa e indicadores passam a fazer parte de um mesmo ambiente.
-
-Não para adicionar mais uma ferramenta à rotina.
-
-Para tornar a gestão mais clara.
+É reduzir a quantidade de lugares que precisam ser consultados para entender a operação.
 
 <br />
 
 <div align="center">
 
-### Sua operação em um só lugar.
-
-Vendas · Estoque · Caixa · Clientes · Empresas · Relatórios
+### Menos informação espalhada. Mais clareza para administrar.
 
 </div>
 
 <br />
 
-## Uma visão mais clara do negócio
+## O que acontece na operação se conecta
 
-A Gevyro organiza diferentes partes da operação para que elas funcionem de maneira conectada.
+Uma venda não é apenas um registro isolado.
 
-Uma venda registrada no PDV não termina na tela de vendas.
+Quando uma operação é registrada, ela pode movimentar o estoque, ficar associada ao caixa, guardar a forma de pagamento, relacionar o cliente atendido e alimentar os indicadores usados para acompanhar o negócio.
 
-Ela movimenta o estoque, pertence a um caixa, pode estar relacionada a um cliente e passa a fazer parte dos indicadores utilizados para acompanhar a empresa.
-
-É essa conexão que transforma registros isolados em informação útil.
+É essa conexão que torna a gestão mais simples.
 
 <br />
 
 <div align="center">
 
-<img src="Img/gevyro-explicação_3.png" alt="Recursos da plataforma Gevyro" width="900" />
+<img src="images/gevyro-explicação_1.png" alt="Fluxo integrado da operação na Gevyro" width="820" />
 
 </div>
 
 <br />
 
-## A Gevyro por dentro
+O produto entra no sistema.
+
+A venda acontece.
+
+O estoque acompanha a movimentação.
+
+O caixa registra a operação.
+
+Os dados passam a fazer parte dos relatórios.
+
+No fim, cada ação ajuda a construir uma visão mais completa da empresa.
+
+<br />
+
+## Problemas reais da rotina, resolvidos no mesmo ambiente
 
 <table>
 <tr>
-<td align="center" width="50%">
-<img src="Img/gevyro-1.png" alt="Página inicial da Gevyro" width="100%" />
-<br />
-<sub><b>Experiência de entrada da plataforma</b></sub>
+<td width="50%" valign="top">
+
+### Vendas
+
+No momento da venda, a equipe precisa de velocidade e organização.
+
+A Gevyro concentra produtos, valores, pagamentos e movimentações em um fluxo pensado para a operação diária, reduzindo a dependência de anotações e controles paralelos.
+
 </td>
-<td align="center" width="50%">
-<img src="Img/gevyro-3.png" alt="Dashboard da Gevyro" width="100%" />
-<br />
-<sub><b>Visão geral da operação</b></sub>
+<td width="50%" valign="top">
+
+### Estoque
+
+Descobrir que um produto acabou somente quando alguém tenta vendê lo gera retrabalho e perda de tempo.
+
+Produtos e movimentações ficam ligados à operação para facilitar o acompanhamento do estoque e dar mais visibilidade sobre o que está disponível.
+
 </td>
 </tr>
+
 <tr>
-<td align="center" width="50%">
-<img src="Img/gevyro5.png" alt="Área de vendas da Gevyro" width="100%" />
-<br />
-<sub><b>Vendas e frente de caixa</b></sub>
+<td width="50%" valign="top">
+
+### Caixa
+
+Sem uma visão clara das entradas e movimentações, fechar o dia pode virar uma conferência manual.
+
+As vendas ficam associadas ao caixa da operação, ajudando a manter o fluxo diário mais organizado e rastreável.
+
 </td>
-<td align="center" width="50%">
-<img src="Img/gevyro-4.png" alt="Relatórios da Gevyro" width="100%" />
-<br />
-<sub><b>Indicadores e análise da operação</b></sub>
+<td width="50%" valign="top">
+
+### Relatórios
+
+Ter dados não significa entender a empresa.
+
+A Gevyro organiza as informações geradas durante a operação para facilitar a leitura de vendas, receita, lucro, ticket, produtos e formas de pagamento.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Clientes
+
+Informações importantes sobre clientes não deveriam ficar espalhadas em diferentes lugares.
+
+O cadastro e o relacionamento com clientes fazem parte da mesma operação, deixando os dados mais fáceis de consultar quando são necessários.
+
+</td>
+<td width="50%" valign="top">
+
+### Empresas
+
+Quando existe mais de uma operação, misturar dados cria confusão.
+
+A estrutura multiempresa permite organizar diferentes empresas dentro da plataforma, mantendo a gestão separada de acordo com a operação selecionada.
+
 </td>
 </tr>
 </table>
 
 <br />
 
-## Da operação para a informação
-
-A arquitetura do produto acompanha o fluxo da operação empresarial.
-
-<br />
-
 <div align="center">
 
-<img src="Img/gevyro-explicação_1.png" alt="Fluxo de dados da plataforma Gevyro" width="750" />
+<img src="images/gevyro-explicação_3.png" alt="Principais recursos da plataforma Gevyro" width="900" />
 
 </div>
 
 <br />
 
-Cada módulo possui sua responsabilidade, mas os dados trabalham em conjunto.
+## Veja a Gevyro em ação
 
-Isso permite que a plataforma evolua sem transformar cada nova funcionalidade em uma ferramenta isolada.
+A plataforma foi construída para transformar a rotina empresarial em uma experiência mais clara, visual e conectada.
+
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<img src="images/gevyro-3.png" alt="Dashboard da Gevyro" width="100%" />
+
+<br />
+
+<sub><b>Uma visão da operação para acompanhar os principais indicadores em um só lugar.</b></sub>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<img src="images/gevyro-4.png" alt="Relatórios da Gevyro" width="100%" />
 
 <br />
 
-## Tecnologia
+<sub><b>Dados organizados para transformar movimentações do dia a dia em informação útil.</b></sub>
 
-A Gevyro também é um projeto de engenharia de software.
-
-A interface é construída com Next.js, React e TypeScript.
-
-A API utiliza Java e Spring Boot, com Spring Security para autenticação e autorização e Spring Data JPA para persistência.
-
-O MySQL mantém os dados relacionais da aplicação.
+</td>
+</tr>
+</table>
 
 <br />
+
+## Uma venda não termina quando o pagamento é confirmado
+
+Quando diferentes partes da empresa trabalham separadas, o gestor precisa reconstruir o que aconteceu consultando telas, anotações ou planilhas diferentes.
+
+A proposta da Gevyro é fazer o caminho contrário.
+
+A venda pertence a um caixa. Os itens vendidos fazem parte do estoque. O pagamento compõe os dados financeiros da operação. O cliente pode estar relacionado à compra. O resultado passa a alimentar os indicadores.
+
+Assim, uma ação operacional deixa de gerar apenas um registro e passa a contribuir para a visão do negócio.
+
+<br />
+
+## Feita para a rotina de quem está trabalhando
+
+Um sistema de gestão não pode existir apenas para armazenar informações.
+
+Ele precisa funcionar enquanto a empresa está vendendo, cadastrando produtos, acompanhando estoque, movimentando o caixa e consultando dados.
+
+Por isso, a experiência da Gevyro busca reduzir etapas desnecessárias e manter as informações importantes acessíveis durante a operação.
+
+O objetivo é permitir que a equipe trabalhe e que a gestão continue organizada ao mesmo tempo.
+
+<br />
+
+## O dashboard existe para responder perguntas
+
+Quanto a empresa vendeu.
+
+Qual foi o lucro registrado.
+
+Qual é o ticket da operação.
+
+Quais produtos estão performando melhor.
+
+Como os clientes estão pagando.
+
+Como as vendas estão evoluindo ao longo do tempo.
+
+Essas informações ganham valor quando deixam de ser números isolados e passam a contar a história da operação.
+
+O dashboard foi pensado para concentrar essa leitura e ajudar quem administra a empresa a enxergar o que está acontecendo sem precisar montar o cenário manualmente.
+
+<br />
+
+## Gestão em evolução
+
+Empresas mudam todos os dias.
+
+Novos produtos entram. Vendas acontecem. Clientes chegam. Processos amadurecem. A operação cresce.
+
+A tecnologia usada para administrar tudo isso também precisa acompanhar essa mudança.
+
+É essa ideia que orienta a Gevyro.
 
 <div align="center">
 
-<img src="Img/gevyro-explicação_2.png" alt="Arquitetura tecnológica da Gevyro" width="800" />
+<br />
+
+## Menos controles espalhados.<br />Mais clareza sobre a operação.
+
+Conheça a plataforma e veja como a Gevyro pode organizar a rotina do seu negócio.
+
+<br />
+
+### [Acessar gevyro.com.br](https://www.gevyro.com.br)
+
+**Teste grátis por 30 dias · Sem cartão de crédito**
 
 </div>
 
 <br />
 
-A aplicação também utiliza JWT, OAuth2, Hibernate, Jakarta Validation, Maven, Tailwind CSS e ferramentas complementares do ecossistema utilizado pelo projeto.
+## Por trás da Gevyro
 
-A documentação técnica detalhada do backend fica disponível em:
+A experiência começa pelo produto, mas existe uma arquitetura de software sustentando cada operação.
 
-```text
-Backend/README.md
-```
+A Gevyro combina uma aplicação web moderna com uma API responsável pelas regras de negócio, autenticação, autorização, persistência e integração entre os módulos.
 
 <br />
 
-## Segurança
-
-Recursos protegidos passam pelas camadas de autenticação e autorização da aplicação.
-
-A Gevyro utiliza Spring Security, BCrypt para senhas, autenticação baseada em JWT e suporte a OAuth2.
-
-Sessões podem utilizar cookies HttpOnly para impedir que o token seja acessado diretamente pelo JavaScript executado no navegador.
-
-O acesso aos dados empresariais considera a relação entre o usuário autenticado e a empresa responsável pelo recurso solicitado.
-
-Segredos, credenciais e chaves utilizadas pelos ambientes da aplicação não devem fazer parte do código fonte versionado.
-
-<br />
-
-## Construída para evoluir
-
-Gevyro não foi escolhida apenas como um novo nome para um sistema.
-
-O nome representa a direção do produto.
-
-**GE** parte de Gestão Empresarial.
-
-**VYRO** é uma construção própria inspirada na ideia de virada, transformação e mudança de direção.
-
-Uma empresa muda todos os dias.
-
-Novos clientes chegam.
-
-Produtos mudam.
-
-Vendas acontecem.
-
-Decisões precisam ser tomadas.
-
-A tecnologia que acompanha essa operação também precisa evoluir.
-
-É daí que nasce a assinatura da marca.
+### Tecnologia
 
 <div align="center">
 
-## Gestão em evolução.
+[![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 </div>
 
 <br />
 
-## Desenvolvimento
+**Backend**
 
-A Gevyro está em desenvolvimento contínuo.
+Java 17, Spring Boot, Spring Security, Spring Data JPA, Hibernate, JWT, OAuth2, Jakarta Validation e Maven.
 
-Novos recursos, melhorias de experiência, alterações de arquitetura e evolução das regras de negócio fazem parte do desenvolvimento do produto.
+**Frontend**
 
-Este repositório representa a implementação técnica da plataforma.
+Next.js 14, React, TypeScript, Tailwind CSS e shadcn/ui.
 
-Informações sobre endpoints, configuração do ambiente, arquitetura do backend e execução local ficam concentradas na documentação técnica do projeto.
+**Banco de dados**
+
+MySQL para persistência principal e H2 no ambiente de testes.
+
+<br />
+
+<div align="center">
+
+<img src="images/gevyro-explicação_2.png" alt="Arquitetura tecnológica da Gevyro" width="820" />
+
+</div>
+
+<br />
+
+### Arquitetura
+
+A aplicação separa responsabilidades entre interface, API, segurança, serviços de negócio, persistência e banco de dados.
+
+O frontend concentra a experiência do usuário.
+
+A API processa as regras da operação.
+
+A camada de segurança controla autenticação e autorização.
+
+Os serviços organizam o comportamento do domínio.
+
+A persistência mantém os dados relacionais da aplicação.
+
+A documentação técnica mais detalhada do backend fica disponível em:
+
+[`Backend/README.md`](Backend/README.md)
+
+<br />
+
+### Segurança
+
+A Gevyro utiliza Spring Security para proteção dos recursos da aplicação, BCrypt para armazenamento seguro de senhas e autenticação baseada em JWT.
+
+O projeto também possui suporte a OAuth2 e utiliza cookies HttpOnly para reduzir a exposição do token ao JavaScript executado no navegador.
+
+Nos ambientes em que a configuração de produção está ativa, cookies sensíveis utilizam atributos de segurança apropriados, como `Secure`.
+
+O acesso aos dados considera o usuário autenticado e a empresa associada ao recurso solicitado, além das validações aplicadas às entradas recebidas pela API.
+
+Credenciais, chaves e segredos de ambiente não devem fazer parte do código fonte versionado.
+
+<br />
+
+## Desenvolvimento contínuo
+
+A Gevyro continua evoluindo junto com o produto.
+
+Novos recursos, melhorias de experiência, ajustes de regras de negócio, testes e mudanças de arquitetura fazem parte do desenvolvimento contínuo da plataforma.
+
+Este repositório representa a implementação técnica do produto e acompanha essa evolução.
 
 <br />
 
@@ -245,13 +370,13 @@ Todos os direitos reservados.
 
 O código fonte e os demais componentes deste repositório permanecem sujeitos aos termos definidos pelo titular dos direitos.
 
-Consulte o arquivo `LICENSE` para informações aplicáveis ao uso do código.
+Consulte o arquivo [`LICENSE`](LICENSE) para as condições aplicáveis ao uso do código.
 
 <br />
 
 <div align="center">
 
-<img src="Img/gevyro-fav-br.png" alt="Gevyro" width="70" />
+<img src="images/gevyro-fav-br.png" alt="Gevyro" width="70" />
 
 ### GEVYRO
 
