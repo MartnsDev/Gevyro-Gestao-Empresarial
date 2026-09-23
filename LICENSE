@@ -1,14 +1,34 @@
-Copyright (c) 2027 Matheus Martins Ribeiro
+GEVYRO SOFTWARE LICENSE
 
-Todos os direitos reservados.
+Copyright (c) 2026 Matheus Martins.
+All rights reserved.
 
-Este software, incluindo seu código-fonte, documentação e ativos relacionados,
-é de propriedade exclusiva de Matheus Martins Ribeiro.
+This software, including its source code, documentation, visual assets, brand elements, interfaces, database structures, business rules, and related materials, is proprietary to its respective rights holder.
 
-É expressamente proibido, sem autorização prévia e por escrito do autor:
-- Copiar, reproduzir ou distribuir este software
-- Modificar ou criar trabalhos derivados
-- Usar este software para fins comerciais
-- Sublicenciar ou vender cópias deste software
+Permission is granted to view the source code solely for evaluation, study, portfolio review, or technical analysis, provided that such access does not involve copying, redistribution, publication, resale, sublicensing, commercial exploitation, or creation of derivative works.
 
-Este software é fornecido "como está", sem garantias de qualquer tipo.
+Without prior written authorization from the copyright holder, you may not:
+
+1. Copy or reproduce the software, in whole or in part.
+
+2. Modify, adapt, translate, reverse engineer, decompile, or create derivative works from the software, except where such restriction is prohibited by applicable law.
+
+3. Redistribute, publish, sublicense, sell, rent, lease, transfer, or otherwise make the software or its source code available to third parties.
+
+4. Use the software, source code, business rules, visual identity, brand, or related materials for commercial purposes.
+
+5. Use the name Gevyro, its logos, visual identity, or other brand elements in a way that suggests affiliation, endorsement, ownership, or authorization without prior written permission.
+
+6. Remove, alter, or obscure copyright notices, ownership notices, or other legal notices contained in the software or documentation.
+
+No rights or licenses are granted by implication, estoppel, or otherwise, except as expressly stated in this license.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGE, LOSS, OR OTHER LIABILITY ARISING FROM THE USE, COPYING, MODIFICATION, DISTRIBUTION, OR INABILITY TO USE THE SOFTWARE.
+
+For licensing, commercial use, partnership, or authorization requests, contact the project owner through the official repository or website:
+
+https://www.gevyro.com.br
+
+By accessing or using this repository, you acknowledge that the source code remains proprietary and that no ownership rights are transferred to you.
